@@ -101,7 +101,7 @@ while game_on:
     print(f'|     Ace of Diamonds has won {diamonds.races_won} races           |')
     print(f'|     Ace of Clubs has won {clubs.races_won} races              |')
     print('|-----------------------------------------------|')
-    print(f'|      Your Bankroll      |\t$ {p1.bankroll:.2f}\\tt|')
+    print(f'|      Your Bankroll      |\t$ {p1.bankroll:.2f}\t\t|')
     print('-------------------------------------------------')
 
     while True:
